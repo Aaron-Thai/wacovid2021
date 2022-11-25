@@ -1,6 +1,7 @@
 # Washington Covid Vaccination Rates, 2021
 
 [Link to interactive map](https://aaron-thai.github.io/wacovid2021/index.html)
+
 [US population density example](https://aaron-thai.github.io/wacovid2021/pop_density.html)
 
 Original data sources:
